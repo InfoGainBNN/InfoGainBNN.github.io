@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# README
 
-You can use the [editor on GitHub](https://github.com/InfoGainBNN/InfoGainBNN.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is for releasing the source code of the paper "Bayesian Learning with Information Gain Provably Bounds Risk for a Robust Adversarial Defense"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Link to the full research paper: [InfoGainBNN](https://proceedings.mlr.press/v162/doan22a/doan22a.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Reference
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Doan, B.G., Abbasnejad, E.M., Shi, J.Q. and Ranashinghe, D., 2022, June. Bayesian Learning with Information Gain Provably Bounds Risk for a Robust Adversarial Defense. In International Conference on Machine Learning (pp. 5309-5323). PMLR.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InfoGainBNN/InfoGainBNN.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Bibtex
 
-### Support or Contact
+The project is published as a part of the following paper. If you find our work interesting and/or re-use our work, please help to cite the following paper: 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+@InProceedings{doan2022bayesian
+  title = 	 {{B}ayesian Learning with Information Gain Provably Bounds Risk for a Robust Adversarial Defense},
+  author =       {Doan, Bao Gia and Abbasnejad, Ehsan M and Shi, Javen Qinfeng and Ranashinghe, Damith},
+  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+  pages = 	 {5309--5323},
+  year = 	 {2022},
+  pdf = 	 {https://proceedings.mlr.press/v162/doan22a/doan22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v162/doan22a.html},
+}
+
+```
+
+
+# Evaluate InfoGainBNN
+
+Placeholder to release the source code. Stay tuned the code will be released soon. 
+
+# TODO
+
+- [ ] Release the source code
+
+
+
+
