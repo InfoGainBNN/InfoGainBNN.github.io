@@ -37,6 +37,6 @@ Doan, B.G., Abbasnejad, E.M., Shi, J.Q. and Ranashinghe, D., 2022, June. Bayesia
 
 These are our other related projects in terms of **Adversarial Machine Learning**, please help to check out:
 
-[Februus - Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems] (https://februustrojandefense.github.io/)
+[Februus - Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems (ACSAC'20)](https://februustrojandefense.github.io/)
 
 [TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems](https://tntattacks.github.io/)
