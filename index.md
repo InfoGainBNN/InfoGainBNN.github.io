@@ -15,7 +15,7 @@ The project is published as a part of the following paper. If you find our work 
 
 ```
 @InProceedings{doan2022bayesian
-  title = 	 {{B}ayesian Learning with Information Gain Provably Bounds Risk for a Robust Adversarial Defense},
+  title = 	 {Bayesian Learning with Information Gain Provably Bounds Risk for a Robust Adversarial Defense},
   author =       {Doan, Bao Gia and Abbasnejad, Ehsan M and Shi, Javen Qinfeng and Ranashinghe, Damith},
   booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
   pages = 	 {5309--5323},
